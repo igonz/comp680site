@@ -14,7 +14,7 @@ Create REST service which connects to SQL | DONE
 Implement Google authentication | TODO
 Implement Google authentication token with REST | TODO
 
-##Sprint 2:
+## Sprint 2:
 Objective: Integrate Google Vision API to identify score numbers from uploaded images and store them in an SQL database as well as make them available for viewing by other users.
 
 
