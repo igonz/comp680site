@@ -6,13 +6,13 @@ Objective: Create functionality to allow a user to take a picture or select a pi
 Tasks | Status
 ------|-------
 Create Cloud SQL instance | DONE
-Create Storage bucket on Google Storage where pictures will be stored | TO DO
-Implement functionality for users to upload image to cloud storage | TO DO
-Implement functionality to take picture on Mobile | TO DO
-Implement functionality to select picture from Mobile | TODO
+Create Storage bucket on Google Storage where pictures will be stored | DONE
+Implement functionality for users to upload image to cloud storage | DONE
+Implement functionality to take picture on Mobile | DONE
+Implement functionality to select picture from Mobile | DONE
 Create REST service which connects to SQL | DONE
-Implement Google authentication | TODO
-Implement Google authentication token with REST | TODO
+Implement Google authentication | DONE
+Implement Google authentication token with REST | Work in Progress
 
 ## Sprint 2:
 Objective: Integrate Google Vision API to identify score numbers from uploaded images and store them in an SQL database as well as make them available for viewing by other users.
