@@ -12,7 +12,7 @@ Implement functionality to take picture on Mobile | DONE
 Implement functionality to select picture from Mobile | DONE
 Create REST service which connects to SQL | DONE
 Implement Google authentication | DONE
-Implement Google authentication token with REST | Work in Progress
+Implement Google authentication token with REST | DONE
 
 ## Sprint 2:
 Objective: Integrate Google Vision API to identify score numbers from uploaded images and store them in an SQL database as well as make them available for viewing by other users.
