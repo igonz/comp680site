@@ -20,10 +20,10 @@ Objective: Integrate Google Vision API to identify score numbers from uploaded i
 
 Tasks | Status
 ------|-------
-Use Cloud Vision API to identify numbers in a given image | TODO
-Implement REST service for high score value | TODO
-Implement list of games available | TODO
-Implement list to view uploaded high scores and images | TODO
-Implement REST post method for new game | TODO
-Implement Share action | TODO
-Create add game page | TODO
+Use Cloud Vision API to identify numbers in a given image | DONE
+Implement REST service for high score value | DONE
+Implement list of games available | DONE
+Implement list to view uploaded high scores and images | DONE
+Implement REST post method for new game | DONE
+Implement Share action | WORK IN PROGRESS
+Create add game page | DONE
