@@ -25,5 +25,5 @@ Implement REST service for high score value | DONE
 Implement list of games available | DONE
 Implement list to view uploaded high scores and images | DONE
 Implement REST post method for new game | DONE
-Implement Share action | WORK IN PROGRESS
+Implement Share action | DONE
 Create add game page | DONE
